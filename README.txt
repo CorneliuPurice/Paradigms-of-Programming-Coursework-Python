@@ -3,7 +3,9 @@ STUDENT - Purice Corneliu
 COMP1811 COURSEWORK
 """
 
-To start the program, run main.py file.
+Year 1, Term 1 Coursework for Paradigms of Programming.
+All specifications could be found in 'Coursework Specification.pdf' file.
+To start the program, run 'main.py' file.
 Make sure the rest of the files are in the same directory.
 The user index input should be numeric data type (ex. 1, 3, 4 etc.). 
 The user output will be in text format for readability (ex. Bob, Liz, Mia etc.).
